@@ -23,12 +23,12 @@ Let's  take a look inside the `src` folder
 
    ### Setup the Project
 
-         - Download this template from GitHub and open it in your text editor.
-         - Go inside the folder path and execute the following command.
+         - `Download this template from GitHub and open it in your text editor.`
+         - `Go inside the folder path and execute the following command.`
             ---
             npm install
             ---
-         - In the root Folder create a .env file and add the env variables.
+         - `In the root Folder create a .env file and add the env variables.`
           ---
               port =<port number of your choice>
           ---
