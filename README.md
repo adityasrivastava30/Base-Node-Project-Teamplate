@@ -26,9 +26,9 @@ Let's  take a look inside the `src` folder
          - Download this template from GitHub and open it in your text 
          - Go inside the folder path and execute the following command
          editor.   
-         --- 
-         npm install
-         ---
+            ---
+            npm install
+            ---
           ---
               port =<port number of your choice>
           ---
