@@ -9,7 +9,7 @@ Let's  take a look inside the `src` folder
 
    - `config` -> In this folder anything and everything regarding any configuration or setup of a library or module will be done. For example:- setting up `dotenv` so that we can use the environment variables within in a cleaner fashion, this is done in the `server-config.js`. One more example can be the setup of the logging library that can help you to prepare meaningful logs so configuration for this library should also be done.
 
-     - `routes`-> In the routes folder we register the routes and corresponding middleware and controllers to that somebody calls routes.
+  - `routes`-> In the routes folder we register the routes and corresponding middleware and controllers to that somebody calls routes.
  
    - `middlewares`-> They are just going to intercept the incoming request where we can write our validates, authenticators, etc.
 
@@ -25,7 +25,9 @@ Let's  take a look inside the `src` folder
 
          - Download this template from GitHub and open it in your text 
          - Go inside the folder path and execute the following command
-         editor.
+         editor.   
+         --- 
+         npm install
           ---
               port =<port number of your choice>
           ---
