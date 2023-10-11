@@ -21,20 +21,19 @@ Let's  take a look inside the `src` folder
 
    -  `utils`-> contain helper method error classes etc.
 
-   ### setup The Project
+   ### Setup the Project
 
-         - Download this template from GitHub and open it in your text 
-         - Go inside the folder path and execute the following command
-         editor.   
+         - Download this template from GitHub and open it in your text editor.
+         - Go inside the folder path and execute the following command.
             ---
             npm install
             ---
+         - In the root Folder create a .env file and add the env variables.
           ---
               port =<port number of your choice>
           ---
-              ex:
-      
-              port=64600
+           ex:
+               port=64600
           ---
           -go inside the `src ` folder and execute the following command:
           ---
