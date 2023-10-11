@@ -28,6 +28,7 @@ Let's  take a look inside the `src` folder
          editor.   
          --- 
          npm install
+         ---
           ---
               port =<port number of your choice>
           ---
